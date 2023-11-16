@@ -21,10 +21,10 @@ create the models in the models.py
         return self.title
 after creating new models
 
-python manage.py makemigrations
+    python manage.py makemigrations
 
-python manage.py sqlmigrate bloog 0001
+    python manage.py sqlmigrate bloog 0001
 
-python manege.py migrate
+    python manege.py migrate
  
 
