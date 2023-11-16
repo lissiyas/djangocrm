@@ -22,7 +22,9 @@ create the models in the models.py
 after creating new models
 
 python manage.py makemigrations
+
 python manage.py sqlmigrate bloog 0001
+
 python manege.py migrate
  
 
